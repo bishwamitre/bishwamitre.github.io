@@ -1,0 +1,38 @@
+diff --git a/index.html "b/C:\\Users\\bishw\\Documents\\GitHub\\bishwamitre.github.io\\index.html"
+index 1b4558c..d95355a 100644
+--- a/index.html
++++ "b/C:\\Users\\bishw\\Documents\\GitHub\\bishwamitre.github.io\\index.html"
+@@ -117,7 +117,7 @@
+                                 
+                             </div>
+                             <div>
+-                                <span class="skills__percentage">45%</span>
++                                <span class="skills__percentage">35%</span>
+                             </div>
+                         </div>
+                         <div class="skills__data">
+@@ -129,20 +129,20 @@
+                                 
+                             </div>
+                             <div>
+-                                <span class="skills__percentage">45%</span>
++                                <span class="skills__percentage">65%</span>
+                             </div>
+ 
+                         </div>
+                         <div class="skills__data">
+                             <div class="skills__names">
+-                                <i class='bx bxs-terminal skills__icon'></i>
+-                                <span class="skills__name">BASH</span>
++                                <i class='bx bxs-bash skills__icon'></i>
++                                <span class="skills__name">Bash</span>
+                             </div>
+                             <div class="skills__bar skills__ux">
+                                 
+                             </div>
+                             <div>
+-                                <span class="skills__percentage">45%</span>
++                                <span class="skills__percentage">85%</span>
+                             </div>
+                         </div>
+                     </div>
