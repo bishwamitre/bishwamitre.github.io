@@ -291,16 +291,16 @@ img {
   z-index: var(--z-back);
 }
 .skills__python {
-  width: 95%;
+  width: 85%;
 }
 .skills__css {
-  width: 45%;
+  width: 35%;
 }
 .skills__js {
-  width: 65%;
+  width: 45%;
 }
 .skills__ux {
-  width: 85%;
+  width: 45%;
 }
 .skills__img {
   border-radius: 0.5rem;
